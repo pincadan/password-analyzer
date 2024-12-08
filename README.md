@@ -1,4 +1,4 @@
-# Here is a simple Python script that analyzes a password and provides feedback on its strengt
+# Here is a simple Python script that analyzes a password and provides feedback on its strengt:
 
 This script takes a password as input and checks its strength by verifying that it meets certain criteria:
 
